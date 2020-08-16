@@ -25,13 +25,14 @@
     <SearchView
         android:layout_width="59dp"
         android:layout_height="37dp"
-        android:layout_marginStart="188dp"
-        android:layout_marginLeft="188dp"
         android:layout_marginTop="89dp"
         android:layout_marginBottom="605dp"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.576"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
     <View
         android:id="@+id/view"
@@ -197,6 +198,7 @@
         android:layout_marginLeft="89dp"
         android:layout_marginTop="300dp"
         android:layout_marginBottom="396dp"
+        android:background="#8ABF1AD1"
         android:text="ADD TO CART"
         android:textSize="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -211,6 +213,7 @@
         android:layout_marginLeft="89dp"
         android:layout_marginTop="515dp"
         android:layout_marginBottom="181dp"
+        android:background="#8ABF1AD1"
         android:text="ADD TO CART"
         android:textSize="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -225,6 +228,7 @@
         android:layout_marginLeft="284dp"
         android:layout_marginTop="515dp"
         android:layout_marginBottom="181dp"
+        android:background="#8ABF1AD1"
         android:text="ADD TO CART"
         android:textSize="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -239,6 +243,7 @@
         android:layout_marginLeft="292dp"
         android:layout_marginTop="300dp"
         android:layout_marginBottom="396dp"
+        android:background="#8ABF1AD1"
         android:text="ADD TO CART"
         android:textSize="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
