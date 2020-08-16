@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sri Pharmacy</string>
+    <string name="textView5">Order Item List</string>
+    <string name="editTextTextPostalAddress">Address</string>
+    <string name="button3">CONFIRM</string>
+    <string name="button5">CANCEL</string>
+    <string name="textView">Delivery address</string>
+    <string name="button2">PROCEED ORDER</string>
+    <string name="button">ENTER ADDRESS</string>
+    <string name="textView10">Subtotal : Rs.300</string>
+    <string name="radioButton">Pamankada</string>
+    <string name="button4">BROWSE MORE PRODUCTS</string>
+    <string name="textView2">CHECKOUT</string>
+    <string name="editTextTextPostalAddress2">State/Province</string>
+    <string name="editTextTextPostalAddress3">City</string>
+    <string name="editTextTextPostalAddress4">Postal Code</string>
+    <string name="editTextTextPostalAddress5">Expected delivery date</string>
+
+</resources>
