@@ -18,7 +18,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="145dp"
         android:background="#D832D0"
-        android:text="CREATE ACCOUNT" />
+        android:text="@string/msg7" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
@@ -32,7 +32,7 @@
         android:layout_marginLeft="65dp"
         android:layout_marginTop="129dp"
         android:ems="10"
-        android:hint="Email"
+        android:hint="@string/msg1"
         android:inputType="textEmailAddress" />
 
 
@@ -48,7 +48,7 @@
         android:layout_marginLeft="66dp"
         android:layout_marginTop="194dp"
         android:ems="10"
-        android:hint="Password"
+        android:hint="@string/msg2"
         android:inputType="textPassword" />
 
 
@@ -63,7 +63,7 @@
         android:layout_marginLeft="68dp"
         android:layout_marginTop="260dp"
         android:ems="10"
-        android:hint="Number"
+        android:hint="@string/msg3"
         android:inputType="phone" />
 
     <EditText
@@ -78,7 +78,7 @@
         android:layout_marginLeft="67dp"
         android:layout_marginTop="325dp"
         android:ems="10"
-        android:hint="Address"
+        android:hint="@string/msg4"
         android:inputType="textPostalAddress" />
 
 
